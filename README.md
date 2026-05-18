@@ -1,2 +1,44 @@
-# DSA-Patterns
-All important patterns to learn DSA in order.
+# 🚀 DSA Patterns Roadmap
+
+> A structured repository to master Data Structures and Algorithms by solving problems based on common coding patterns.
+
+![Language](https://img.shields.io/badge/Language-Java-orange)
+![Progress](https://img.shields.io/badge/Progress-In%20Progress-blue)
+
+---
+
+## 📌 About This Repository
+
+This repository is my personal journey to master **Data Structures and Algorithms (DSA)** using a **pattern-based approach**.
+
+Instead of solving random problems, I am following a curated DSA cheat sheet and solving questions organized by common coding patterns such as:
+
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Dynamic Programming
+- Trees
+- Graphs
+- Backtracking
+- Greedy
+- Tries
+- And many more...
+
+This structured approach helps in:
+
+- 🧠 Recognizing patterns quickly during coding interviews
+- ⚡ Improving problem-solving speed
+- 🏆 Preparing for product-based companies (Google, Amazon, Microsoft, Infosys, etc.)
+- 📈 Tracking progress systematically
+
+---
+
+## 🎯 Goals
+
+- Solve DSA problems daily
+- Master all major coding patterns
+- Improve problem-solving intuition
+- Prepare for coding interviews and online assessments
+- Build a reusable reference for future revision
+
+---
