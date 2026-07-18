@@ -10,20 +10,21 @@ class Solution {
         map.put('8',"tuv");
         map.put('9',"wxyz");
         List<String> res=new ArrayList<>();
-        String diary="";
-        return combo(digits,0,diary,res,map);
+        return combo(digits,0,new StringBuilder(),res,map);
     }
-    static List<String> combo(String dig, int idx, String diary, List<String> res, HashMap<Character,String> map){
+    static List<String> combo(String dig, int idx, StringBuilder diary, List<String> res, HashMap<Character,String> map){
         if (idx==dig.length())
         {
-            res.add(diary);
+            res.add(diary.toString());
             return res;
         }
         char ch=dig.charAt(idx);
         String com=map.get(ch);
         for (char c : com.toCharArray())
         {
-            combo(dig,idx+1,diary+c,res,map);
+            diary.append(c);
+            combo(dig,idx+1,diary,res,map);
+            diary.deleteCharAt(diary.length()-1);   // Backtrack
         }
         return res;
     }
