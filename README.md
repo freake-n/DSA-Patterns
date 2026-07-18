@@ -72,8 +72,13 @@ This structured approach helps in:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/freake-n/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/freake-n/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/freake-n/DSA-Patterns/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/freake-n/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/freake-n/DSA-Patterns/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
