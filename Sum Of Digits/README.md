@@ -1,5 +1,4 @@
 <h2><a href="https://www.geeksforgeeks.org/problems/sum-of-digits1742/1">Sum Of Digits</a></h2>
-<h3>![Difficulty: Difficulty: easy](https://img.shields.io/badge/Difficulty-Difficulty: easy-818cf8?style=flat-square)</h3>
 <hr>
 
 
