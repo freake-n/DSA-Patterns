@@ -25,7 +25,7 @@ class Solution {
         // Process current node
         l.add(root.val);
 
-        // Visit entire left subtree first
+        // Visit entire left subtree
         pre(root.left, l);
 
         // Visit entire right subtree
