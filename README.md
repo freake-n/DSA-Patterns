@@ -101,12 +101,14 @@ This structured approach helps in:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/freake-n/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,10 +118,12 @@ This structured approach helps in:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/freake-n/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/freake-n/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0226-invert-binary-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
