@@ -11,6 +11,26 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         
+        // if both p and q are smaller than root -> go left
+        if(p.val<root.val && q.val<root.val)
+            return lowestCommonAncestor(root.left,p,q);
+
+        // if both p and q are larger than root -> go right
+        if(p.val>root.val && q.val>root.val)
+            return lowestCommonAncestor(root.right,p,q);
+
+        // else root is in between p & q -> LCA
+        return root;
+    }
+}
+
+
+//  OR
+/*
+
+class Solution {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        
         // Ensure p has the smaller value and q the larger value
         if(p.val<q.val)
             return lca(root,p,q);
@@ -33,3 +53,5 @@ class Solution {
         return root;
     }
 }
+
+*/
