@@ -86,12 +86,14 @@ This structured approach helps in:
 | ------- |
 | [0039-combination-sum](https://github.com/freake-n/DSA-Patterns/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/freake-n/DSA-Patterns/tree/master/0046-permutations) |
+| [0739-daily-temperatures](https://github.com/freake-n/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/freake-n/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/freake-n/DSA-Patterns/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -161,4 +163,8 @@ This structured approach helps in:
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/freake-n/DSA-Patterns/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
