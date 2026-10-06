@@ -84,6 +84,7 @@ This structured approach helps in:
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/freake-n/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/freake-n/DSA-Patterns/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/freake-n/DSA-Patterns/tree/master/0046-permutations) |
 | [0739-daily-temperatures](https://github.com/freake-n/DSA-Patterns/tree/master/0739-daily-temperatures) |
@@ -161,6 +162,7 @@ This structured approach helps in:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/freake-n/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/freake-n/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
 ## Monotonic Stack
